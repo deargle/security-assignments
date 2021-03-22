@@ -70,7 +70,7 @@ Now, consider what it means that one could use multiple VPNs, or a browsing syst
 # More about IP addresses
 
 Open a Microsoft Word document and record your answers to the following questions. You can also take screen shots and paste it into your document to explain your answers.
-
+[//]: # todo: University Specific Generalizations on below questions
 1. What is the public IP address for Temple.edu?
 1. What class of IP address is the IP address for Temple.edu?
 1. What is the IP address for your Metaploitable2 VM?

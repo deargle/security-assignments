@@ -177,7 +177,7 @@ Writing technical material for a managerial audience is crucial skill for inform
 # Rubric
 
 Your report will be graded using the following rubric:
-
+[//]: # todo: University Specific Generalizations below
 {: .table }
 {% if site.instructorcollab_username == 'deargle' %}
 | Criteria | Points |

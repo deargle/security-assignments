@@ -219,7 +219,7 @@ Using the Kali VM for the steps below shows both that you got your Kali VM up an
         * Output of the `date` command
 
 For example:
-
+[//]: # todo: University Specific Generalizations required below
 {% if site.instructorcollab_domain == 'colorado.edu' %}
 {% include lab-image.html image='gcp-kali-chrome-remote-proof.png' %}
 {% elsif site.instructorcollab_domain == 'temple.edu' %}

@@ -1,4 +1,8 @@
-# Configuring to your instructional style branding and university-specific data
+# Security-Assignments
+
+_This repository has been archived. It now lives at https://github.com/security-assignments/security-assignments.github.io_
+
+## Configuring to your instructional style branding and university-specific data
 
 Set values for `instructorcollab_username` and `instructorcollab_domain` in `_config.yml`. E.g., I set:
 
@@ -35,7 +39,7 @@ To avoid unnecessarily repeating `if-then-else` statements, single-page-scope va
 
 
 
-# Getting started for development
+## Getting started for development
 
 
 * If you fork, go go to your repo on github.com > settings > "Github Page" > set your site to be built from the master branch.
